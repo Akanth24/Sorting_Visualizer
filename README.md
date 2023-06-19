@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 
-Project link : 
+Project link : https://akanth24.github.io/Sorting_Visualizer/
 
 A web application showcasing the inner workings of sorting algorithms.
 
@@ -13,10 +13,10 @@ Implemented algorithms:
 
 Features:
 1) Colored representation of step being executed.
-  1.1) Blue:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
+  1.1) BLUE:INDICATES THE ELEMENTS ARE NOT SORTED.
+  1.2) YELLOW : INDICATE THE ELEMENTS ARE BEING COMPARED.
+  1.3) RED : HIGHLIGHT THE ELEMENTS OF SWAP OPERATION.
+  1.4) GREEN : INDICATE THAT THE ELEMENTS ARE IN ITS FINAL SORTED POSITION.
 2) 3 Controls for visualizations
   2.1) Speed of visualization (5 speed levels)
   2.2) Data size ()
