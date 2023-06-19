@@ -1,10 +1,7 @@
 # Sorting_Visualizer
 
-<<<<<<< HEAD
-Project link : https://akanth24.github.io/Sorting_Visualizer/
+Project link : 
 
-=======
->>>>>>> ee5ed0b (second commit)
 A web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
